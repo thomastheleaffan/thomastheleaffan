@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomastheleaffan
-- 👀 I’m interested in making computer virus's
+- 👀 I’m interested in making computer program's
 - 🌱 I’m currently learning python
 - 📫 How to reach me https://www.youtube.com/channel/UC0K0sFe6gCUsNJFOSnLZNZA
 
